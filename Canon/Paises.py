@@ -1,3 +1,5 @@
+classified_countries = 
+"
 Qatar
 Alemania	
 Dinamarca	
@@ -28,4 +30,4 @@ Túnez
 Marruecos	
 Camerún	
 Gales	
-Australia	
+Australia	"
